@@ -59,3 +59,4 @@ Commit message 用语规范 [HbGitHubCommitMessage · OpenMindClub/Share Wiki](h
 - 千万竹 20190402 创建
 - 小宫  20190403  更新个人简介
 - 王钰博  20190404  更新个人简介
+- 千万竹 20190407 添加会议记录及分工
