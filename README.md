@@ -117,7 +117,7 @@
   2. Issues：存放头脑风暴中诞生的灵感、建议、改进点等。并放置对应Wiki链接
   3. Code：存放领取后的任务，必要时可自创文件夹。
 
-- Zotero
+- Zotero [算命相关论文](https://www.zotero.org/groups/2313064/fortunetellerbp)
 
   存放项目资料。
 
